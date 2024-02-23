@@ -10,4 +10,8 @@ const register = (user) => {
     }
 }
 
+const addToCart = (product) => {
+    return true
+}
+
 const number = 12
