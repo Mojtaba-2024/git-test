@@ -1,0 +1,3 @@
+const isLogin = () => {
+    return true
+}
