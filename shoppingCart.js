@@ -1,3 +1,0 @@
-const setShoppingCart = () => {
-    return true
-}
