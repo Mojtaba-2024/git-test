@@ -1,0 +1,3 @@
+const setShoppingCart = () => {
+    return true
+}
