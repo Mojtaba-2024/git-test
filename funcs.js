@@ -3,7 +3,7 @@ const isLogin = (username) => {
 }
 
 const register = (user) => {
-    if(user) {
+    if (user) {
         return true
     } else {
         return false
@@ -14,4 +14,4 @@ const addToCart = (product) => {
     return true
 }
 
-const number = 12
+const number = 12  
