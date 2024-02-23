@@ -9,3 +9,5 @@ const register = (user) => {
         return false
     }
 }
+
+const number = 12
