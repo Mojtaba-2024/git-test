@@ -3,5 +3,9 @@ const isLogin = () => {
 }
 
 const register = (user) => {
-    return true
+    if (user) {
+        return true
+    } else {
+        return false
+    }
 }
