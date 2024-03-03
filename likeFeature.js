@@ -1,3 +1,0 @@
-const like = () => {
-    return true
-}
