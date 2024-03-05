@@ -11,3 +11,7 @@ const dissLikePost = () => {
 const geMe = (user) => {
   return user.name
 }
+
+const setComment = () => {
+  return Comment.body
+}
