@@ -13,3 +13,7 @@ const addCourse = (course) => {
 }
 
 const test = () => false
+
+const value = () => {
+    return true
+}
